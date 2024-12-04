@@ -24,4 +24,3 @@ The system implements a multi-stage compression pipeline:
 4. **Elias Omega Coding**
    - Efficient variable-length integer encoding
    - Used for metadata and run-lengths
-   - Self-delimiting codes
